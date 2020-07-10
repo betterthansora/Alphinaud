@@ -1,0 +1,25 @@
+{
+  "content": "**˜”*°•.˜”*°• Behemoth Roleplay Discord Server Rules •°*”˜.•°*”˜**",
+  "embeds": [
+    {
+      "title": "General",
+      "description": "‣ **There will be no tolerance for hate speech in any form.** \nPlease contact a staff member if you are unsure about a particular word if it is not listed as banned in <#terminology>. All LGBT, racial and ethnic slurs are unacceptable.\n\n‣ We run on a three-strikes system. \nYou will be warned, and beyond three strikes, you will be muted for a month. Should the behavior continue, you will be kicked. Should you return and continue the pattern, you will be banned on the first violation.\n\n‣  NSFW content must remain in the NSFW channels.\n\n‣ You will not have access to the NSFW channels until completing <#age-verification> and assigned the role by a staff member.\n\n‣ Any unsolicited OOC harassment in the form of private messages, mail, or images will not be tolerated and is the cause of an immediate ban. Please report to a staff member should you become a victim of such treatment.\n\n‣ Please utilize the <#spoilers> chat for canonic game story discussions.\n\n‣ Please abide by [Discord’s Terms of Service](https://discord.com/new/terms).\n\n‣ Only post content created by yourself in the content creators channels. \n\n[Use the feedback box for any questions, concerns or suggestions!](https://behemothfeedbackbox.typeform.com/to/oAUi5etB) ",
+      "color": 7506394
+    },
+    {
+      "title": "General Roleplay",
+      "description": "‣ All RPs must be Final Fantasy XIV themed.\n\n‣ No Godmodding. You can only control your character.\n\n‣ Avoid Infomodding. \nWhat you know about the world or another’s character is not necessarily information your character has. \n",
+      "color": 4437377
+    },
+    {
+      "title": "NSFW",
+      "description": "‣ **Guro and any form of underage content are banned in every channel.**\n No underage content of any kind is acceptable at any time, for any reason, anywhere in the server. This includes loli/shota content and, unfortunately, NSFW Lalafel content as well.\n\n‣ Nudes, which can be defined as pictures of oneself without clothing, are not allowed to be posted on any channel. Additionally, selling or marketing of nude photos (including lingerie pictures) is not permitted in public channels.\n\n‣ No nude Lalafell content. \nLalafell aligns closely with what Discord considers Loli/Shota, thus nude content of Lalafells is banned.\n",
+      "color": 15746887
+    },
+    {
+      "title": "Voice Chat",
+      "description": "‣ We don’t want to hear eating, please mute.\n\n‣ If you wish to engage in a debate, take it to the DMs. We don’t want to hear it or be involved.\n\n‣ Don’t narrate your actions excessively. Voice chat is not a podcast or a let’s play.\n\n‣ Try not to talk over each other and certainly do not feel bad if others or you need to step out into another channel or out altogether.\n\n‣  If you have excessive background noise please avoid being in the chat or staying muted.",
+      "color": 16426522
+    }
+  ]
+}
